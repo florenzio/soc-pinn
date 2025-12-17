@@ -1,2 +1,2 @@
-# soc-pinn
+# 🌱 SOC-PINN
 Soil Organic Carbon mapping with Radiative Transfer Models and SciML
